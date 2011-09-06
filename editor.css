@@ -1,0 +1,17 @@
+.bullet {
+	background-color:yellow;
+}
+
+.heading {
+	color:red;
+	font-size:1.2em;
+}
+
+.underline {
+	text-decoration:underline;
+}
+
+.skipper {
+	font-size:0.95em;
+	background-color:#EEE;
+}
